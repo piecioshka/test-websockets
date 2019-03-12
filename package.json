@@ -2,6 +2,6 @@
   "name": "test-websocket",
   "private": true,
   "dependencies": {
-    "ws": "^0.7.2"
+    "ws": "^6.2.0"
   }
 }

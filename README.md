@@ -1,4 +1,4 @@
-# test-websocket
+# test-websockets
 
 ## Setup
 

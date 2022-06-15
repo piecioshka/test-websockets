@@ -1,10 +1,8 @@
 {
-    "private": true,
-    "name": "test-websocket",
-    "scripts": {
-        "test": "jest --rootDir test/specs/"
-    },
-    "dependencies": {
-        "ws": "^6.2.0"
-    }
+  "private": true,
+  "name": "test-websockets",
+  "scripts": {},
+  "dependencies": {
+    "ws": "^6.2.0"
+  }
 }

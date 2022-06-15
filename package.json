@@ -1,7 +1,10 @@
 {
   "private": true,
   "name": "test-websockets",
-  "scripts": {},
+  "scripts": {
+    "start:server": "node server/index.js",
+    "start:client": "node client/index.js"
+  },
   "dependencies": {
     "ws": "^6.2.0"
   }

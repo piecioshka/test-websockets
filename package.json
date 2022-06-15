@@ -6,6 +6,6 @@
     "start:client": "node client/index.js"
   },
   "dependencies": {
-    "ws": "^6.2.0"
+    "ws": "^6.2.2"
   }
 }

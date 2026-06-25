@@ -13,3 +13,7 @@ npm run start:server
 # Run WebSocket client and send test msg to server running on `1234` port
 npm run start:client
 ```
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026

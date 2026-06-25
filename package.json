@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "test-websockets",
+  "license": "MIT",
   "scripts": {
     "start:server": "node server/index.js",
     "start:client": "node client/index.js"
